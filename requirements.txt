@@ -1,0 +1,8 @@
+poke-env
+gym
+numpy
+pandas
+matplotlib
+stable-baselines3
+torch
+pytest
